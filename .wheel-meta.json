@@ -1,0 +1,22 @@
+{
+  "wheel_id": 567,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsaustralia-105",
+  "project": "garage-door-repairs-brisbane-timeline-0ea6aff83036be3ac610a146e",
+  "parent_t1_ref": "garagedoorrepairsaustralia-152",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsaustralia.com.au",
+  "primary_kw": "garage door repairs brisbane timeline",
+  "intended_url": "https://sitesau.github.io/garagedoorrepairsaustralia-105/",
+  "tier": "T2",
+  "writeback_nonce": "c5d26f9512349263",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-brisbane-signs-you-need-a208dca0783f4a87/",
+      "anchor": "garage door repairs brisbane signs you need",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
